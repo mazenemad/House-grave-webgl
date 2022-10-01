@@ -16,5 +16,4 @@ npm run build
 ```
 
 
-visti https://mazenemad.github.io/House-grave-webgl/
-or https://house-grave-1.vercel.app/
+visti  https://house-grave-1.vercel.app/
